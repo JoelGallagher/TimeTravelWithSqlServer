@@ -1,0 +1,82 @@
+RowID,UK,AUS,US,FromDateTime,ToDateTime
+1,Arthur Balfour ,Edmund Barton,Theodore Roosevelt,1902-07-12 00:00:00.0000000,1903-09-24 00:00:00.0000000
+1,Arthur Balfour ,Alfred Deakin,Theodore Roosevelt,1903-09-24 00:00:00.0000000,1904-04-27 00:00:00.0000000
+1,Arthur Balfour ,John Christian Watson,Theodore Roosevelt,1904-04-27 00:00:00.0000000,1904-08-18 00:00:00.0000000
+1,Arthur Balfour ,George Houston Reid,Theodore Roosevelt,1904-08-18 00:00:00.0000000,1905-07-05 00:00:00.0000000
+1,Arthur Balfour ,Alfred Deakin,Theodore Roosevelt,1905-07-05 00:00:00.0000000,1905-12-05 00:00:00.0000000
+1,Henry Campbell-Bannerman ,Alfred Deakin,Theodore Roosevelt,1905-12-05 00:00:00.0000000,1908-04-05 00:00:00.0000000
+1,H. H. Asquith  ,Alfred Deakin,Theodore Roosevelt,1908-04-05 00:00:00.0000000,1908-11-13 00:00:00.0000000
+1,H. H. Asquith  ,Andrew Fisher,Theodore Roosevelt,1908-11-13 00:00:00.0000000,1909-03-04 00:00:00.0000000
+1,H. H. Asquith  ,Andrew Fisher,William Howard Taft,1909-03-04 00:00:00.0000000,1909-06-02 00:00:00.0000000
+1,H. H. Asquith  ,Alfred Deakin,William Howard Taft,1909-06-02 00:00:00.0000000,1910-04-29 00:00:00.0000000
+1,H. H. Asquith  ,Andrew Fisher,William Howard Taft,1910-04-29 00:00:00.0000000,1913-03-04 00:00:00.0000000
+1,H. H. Asquith  ,Andrew Fisher,Woodrow Wilson,1913-03-04 00:00:00.0000000,1913-06-24 00:00:00.0000000
+1,H. H. Asquith  ,Joseph Cook,Woodrow Wilson,1913-06-24 00:00:00.0000000,1914-09-17 00:00:00.0000000
+1,H. H. Asquith  ,Andrew Fisher,Woodrow Wilson,1914-09-17 00:00:00.0000000,1915-10-27 00:00:00.0000000
+1,H. H. Asquith  ,William Morris Hughes,Woodrow Wilson,1915-10-27 00:00:00.0000000,1916-12-06 00:00:00.0000000
+1,David Lloyd George ,William Morris Hughes,Woodrow Wilson,1916-12-06 00:00:00.0000000,1921-03-04 00:00:00.0000000
+1,David Lloyd George ,William Morris Hughes,Warren G. Harding,1921-03-04 00:00:00.0000000,1922-10-23 00:00:00.0000000
+1,Bonar Law ,William Morris Hughes,Warren G. Harding,1922-10-23 00:00:00.0000000,1923-02-09 00:00:00.0000000
+1,Bonar Law ,Stanley Melbourne Bruce,Warren G. Harding,1923-02-09 00:00:00.0000000,1923-05-22 00:00:00.0000000
+1,Stanley Baldwin ,Stanley Melbourne Bruce,Warren G. Harding,1923-05-22 00:00:00.0000000,1923-08-02 00:00:00.0000000
+1,Stanley Baldwin ,Stanley Melbourne Bruce,Calvin Coolidge,1923-08-02 00:00:00.0000000,1924-01-22 00:00:00.0000000
+1,Ramsay MacDonald ,Stanley Melbourne Bruce,Calvin Coolidge,1924-01-22 00:00:00.0000000,1924-11-04 00:00:00.0000000
+1,Stanley Baldwin ,Stanley Melbourne Bruce,Calvin Coolidge,1924-11-04 00:00:00.0000000,1929-03-04 00:00:00.0000000
+1,Stanley Baldwin ,Stanley Melbourne Bruce,Herbert Hoover,1929-03-04 00:00:00.0000000,1929-06-05 00:00:00.0000000
+1,Ramsay MacDonald ,Stanley Melbourne Bruce,Herbert Hoover,1929-06-05 00:00:00.0000000,1929-10-22 00:00:00.0000000
+1,Ramsay MacDonald ,James Henry Scullin,Herbert Hoover,1929-10-22 00:00:00.0000000,1932-01-06 00:00:00.0000000
+1,Ramsay MacDonald ,Joseph Aloysius Lyons,Herbert Hoover,1932-01-06 00:00:00.0000000,1933-03-04 00:00:00.0000000
+1,Ramsay MacDonald ,Joseph Aloysius Lyons,Franklin D. Roosevelt,1933-03-04 00:00:00.0000000,1935-06-07 00:00:00.0000000
+1,Stanley Baldwin ,Joseph Aloysius Lyons,Franklin D. Roosevelt,1935-06-07 00:00:00.0000000,1937-05-28 00:00:00.0000000
+1,Neville Chamberlain ,Joseph Aloysius Lyons,Franklin D. Roosevelt,1937-05-28 00:00:00.0000000,1939-04-07 00:00:00.0000000
+1,Neville Chamberlain ,Earle Christmas Grafton Page,Franklin D. Roosevelt,1939-04-07 00:00:00.0000000,1939-04-26 00:00:00.0000000
+1,Neville Chamberlain ,Robert Gordon Menzies,Franklin D. Roosevelt,1939-04-26 00:00:00.0000000,1940-05-10 00:00:00.0000000
+1,Winston Churchill ,Robert Gordon Menzies,Franklin D. Roosevelt,1940-05-10 00:00:00.0000000,1941-08-29 00:00:00.0000000
+1,Winston Churchill ,Arthur William Fadden,Franklin D. Roosevelt,1941-08-29 00:00:00.0000000,1941-10-07 00:00:00.0000000
+1,Winston Churchill ,John Curtin,Franklin D. Roosevelt,1941-10-07 00:00:00.0000000,1945-04-12 00:00:00.0000000
+1,Winston Churchill ,John Curtin,Harry S. Truman,1945-04-12 00:00:00.0000000,1945-07-06 00:00:00.0000000
+1,Winston Churchill ,Francis Michael Forde,Harry S. Truman,1945-07-06 00:00:00.0000000,1945-07-13 00:00:00.0000000
+1,Winston Churchill ,Joseph Benedict Chifley,Harry S. Truman,1945-07-13 00:00:00.0000000,1945-07-26 00:00:00.0000000
+1,Clement Attlee ,Joseph Benedict Chifley,Harry S. Truman,1945-07-26 00:00:00.0000000,1949-12-19 00:00:00.0000000
+1,Clement Attlee ,Robert Gordon Menzies,Harry S. Truman,1949-12-19 00:00:00.0000000,1951-10-26 00:00:00.0000000
+1,Winston Churchill ,Robert Gordon Menzies,Harry S. Truman,1951-10-26 00:00:00.0000000,1953-01-20 00:00:00.0000000
+1,Winston Churchill ,Robert Gordon Menzies,Dwight Eisenhower,1953-01-20 00:00:00.0000000,1955-04-06 00:00:00.0000000
+1,Anthony Eden ,Robert Gordon Menzies,Dwight Eisenhower,1955-04-06 00:00:00.0000000,1957-01-10 00:00:00.0000000
+1,Harold Macmillan ,Robert Gordon Menzies,Dwight Eisenhower,1957-01-10 00:00:00.0000000,1961-01-20 00:00:00.0000000
+1,Harold Macmillan ,Robert Gordon Menzies,John F. Kennedy,1961-01-20 00:00:00.0000000,1963-10-19 00:00:00.0000000
+1,Alec Douglas-Home ,Robert Gordon Menzies,John F. Kennedy,1963-10-19 00:00:00.0000000,1963-11-22 00:00:00.0000000
+1,Alec Douglas-Home ,Robert Gordon Menzies,Lyndon B. Johnson,1963-11-22 00:00:00.0000000,1964-10-16 00:00:00.0000000
+1,Harold Wilson ,Robert Gordon Menzies,Lyndon B. Johnson,1964-10-16 00:00:00.0000000,1966-01-26 00:00:00.0000000
+1,Harold Wilson ,Harold Edward Holt,Lyndon B. Johnson,1966-01-26 00:00:00.0000000,1967-12-19 00:00:00.0000000
+1,Harold Wilson ,John McEwen,Lyndon B. Johnson,1967-12-19 00:00:00.0000000,1968-01-10 00:00:00.0000000
+1,Harold Wilson ,John Grey Gorton,Lyndon B. Johnson,1968-01-10 00:00:00.0000000,1969-01-20 00:00:00.0000000
+1,Harold Wilson ,John Grey Gorton,Richard Nixon,1969-01-20 00:00:00.0000000,1970-06-19 00:00:00.0000000
+1,Edward Heath,John Grey Gorton,Richard Nixon,1970-06-19 00:00:00.0000000,1971-03-10 00:00:00.0000000
+1,Edward Heath,William McMahon,Richard Nixon,1971-03-10 00:00:00.0000000,1972-12-05 00:00:00.0000000
+1,Edward Heath,Edward Gough Whitlam,Richard Nixon,1972-12-05 00:00:00.0000000,1974-03-04 00:00:00.0000000
+1,Harold Wilson ,Edward Gough Whitlam,Richard Nixon,1974-03-04 00:00:00.0000000,1974-08-09 00:00:00.0000000
+1,Harold Wilson ,Edward Gough Whitlam,Gerald Ford,1974-08-09 00:00:00.0000000,1975-11-11 00:00:00.0000000
+1,Harold Wilson ,John Malcolm Fraser,Gerald Ford,1975-11-11 00:00:00.0000000,1976-04-05 00:00:00.0000000
+1,James Callaghan ,John Malcolm Fraser,Gerald Ford,1976-04-05 00:00:00.0000000,1977-01-20 00:00:00.0000000
+1,James Callaghan ,John Malcolm Fraser,Jimmy Carter,1977-01-20 00:00:00.0000000,1979-05-04 00:00:00.0000000
+1,Margaret Thatcher ,John Malcolm Fraser,Jimmy Carter,1979-05-04 00:00:00.0000000,1981-01-20 00:00:00.0000000
+1,Margaret Thatcher ,John Malcolm Fraser,Ronald Reagan,1981-01-20 00:00:00.0000000,1983-03-11 00:00:00.0000000
+1,Margaret Thatcher ,Robert James Lee Hawke,Ronald Reagan,1983-03-11 00:00:00.0000000,1989-01-20 00:00:00.0000000
+1,Margaret Thatcher ,Robert James Lee Hawke,George Bush,1989-01-20 00:00:00.0000000,1990-11-28 00:00:00.0000000
+1,John Major ,Robert James Lee Hawke,George Bush,1990-11-28 00:00:00.0000000,1991-12-20 00:00:00.0000000
+1,John Major ,Paul John Keating,George Bush,1991-12-20 00:00:00.0000000,1993-01-20 00:00:00.0000000
+1,John Major ,Paul John Keating,Bill Clinton,1993-01-20 00:00:00.0000000,1996-03-11 00:00:00.0000000
+1,John Major ,John Winston Howard,Bill Clinton,1996-03-11 00:00:00.0000000,1997-05-02 00:00:00.0000000
+1,Tony Blair ,John Winston Howard,Bill Clinton,1997-05-02 00:00:00.0000000,2001-01-20 00:00:00.0000000
+1,Tony Blair ,John Winston Howard,George W. Bush,2001-01-20 00:00:00.0000000,2007-06-27 00:00:00.0000000
+1,Gordon Brown ,John Winston Howard,George W. Bush,2007-06-27 00:00:00.0000000,2007-12-03 00:00:00.0000000
+1,Gordon Brown ,Kevin Michael Rudd,George W. Bush,2007-12-03 00:00:00.0000000,2009-01-20 00:00:00.0000000
+1,Gordon Brown ,Kevin Michael Rudd,Barack Obama,2009-01-20 00:00:00.0000000,2010-05-11 00:00:00.0000000
+1,David Cameron ,Kevin Michael Rudd,Barack Obama,2010-05-11 00:00:00.0000000,2010-06-24 00:00:00.0000000
+1,David Cameron ,Julia Eileen Gillard,Barack Obama,2010-06-24 00:00:00.0000000,2013-06-27 00:00:00.0000000
+1,David Cameron ,Kevin Michael Rudd,Barack Obama,2013-06-27 00:00:00.0000000,2013-09-18 00:00:00.0000000
+1,David Cameron ,Anthony John Abbott,Barack Obama,2013-09-18 00:00:00.0000000,2015-09-15 00:00:00.0000000
+1,David Cameron ,Malcolm Bligh Turnbull,Barack Obama,2015-09-15 00:00:00.0000000,2016-07-13 00:00:00.0000000
+1,Theresa May ,Malcolm Bligh Turnbull,Barack Obama,2016-07-13 00:00:00.0000000,2017-01-20 00:00:00.0000000
+1,Theresa May ,Malcolm Bligh Turnbull,Donald Trump,2017-01-20 00:00:00.0000000,2018-08-24 00:00:00.0000000
+1,Theresa May ,Scott John Morrison,Donald Trump,2018-08-24 00:00:00.0000000,9999-12-31 23:59:59.9999999
