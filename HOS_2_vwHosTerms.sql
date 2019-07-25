@@ -1,7 +1,3 @@
-USE TemporalHOS
-GO
-
-
 DROP VIEW IF EXISTS vwHosTerms_UK
 GO
 CREATE VIEW vwHosTerms_UK AS 
@@ -150,5 +146,5 @@ CREATE VIEW vwHosTerms AS
 	)
 	SELECT * FROM cteFinal
 GO
-
-SELECT * FROM vwHosTerms  Order by FromDateTime
+PRINT('View Created!')
+-- SELECT * FROM vwHosTerms  Order by FromDateTime

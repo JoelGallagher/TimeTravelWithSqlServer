@@ -1,5 +1,3 @@
-USE TemporalHOS
-GO
 -- HeadsOfState already created? Gotta turn off SysVersioning before dropping it
 -- ALTER TABLE dbo.HeadsOfState SET (SYSTEM_VERSIONING = OFF)
 GO

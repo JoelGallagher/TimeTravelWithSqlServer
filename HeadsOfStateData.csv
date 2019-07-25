@@ -79,4 +79,5 @@ RowID,UK,AUS,US,FromDateTime,ToDateTime
 1,David Cameron ,Malcolm Bligh Turnbull,Barack Obama,2015-09-15 00:00:00.0000000,2016-07-13 00:00:00.0000000
 1,Theresa May ,Malcolm Bligh Turnbull,Barack Obama,2016-07-13 00:00:00.0000000,2017-01-20 00:00:00.0000000
 1,Theresa May ,Malcolm Bligh Turnbull,Donald Trump,2017-01-20 00:00:00.0000000,2018-08-24 00:00:00.0000000
-1,Theresa May ,Scott John Morrison,Donald Trump,2018-08-24 00:00:00.0000000,9999-12-31 23:59:59.9999999
+1,Theresa May ,Scott John Morrison,Donald Trump,2018-08-24 00:00:00.0000000,2019-07-24 00:00:00.0000000
+1,Boris Johnson ,Scott John Morrison,Donald Trump,2019-07-24 00:00:00.0000000,9999-12-31 23:59:59.9999999

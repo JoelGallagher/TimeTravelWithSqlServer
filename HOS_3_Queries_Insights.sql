@@ -1,5 +1,3 @@
-USE TemporalHOS
-GO
 /*****************************************
 	QUERIES
 *****************************************/
@@ -12,9 +10,8 @@ FROM HeadsOfState
 SELECT * 
 FROM HeadsOfStateHistory
 
--- Update Boris
-UPDATE HeadsOfState
-SET UK = 'Boris Johnson'
+-- Update US 
+-- UPDATE HeadsOfState SET US = 'Mike Pence'
 	
 
 -- ALL : Show History of Heads Of State (Union of Main & History)
@@ -81,6 +78,3 @@ FROM vwhosTerms
 GROUP BY HOS, Nation
 HAVING Count(HOS) > 1 
 ORDER BY TermCount DESC
-
-
--- TRAVEL DATASET -- 
