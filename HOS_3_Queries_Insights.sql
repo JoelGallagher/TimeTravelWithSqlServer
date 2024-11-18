@@ -11,7 +11,7 @@ SELECT *
 FROM HeadsOfStateHistory
 
 -- Update US 
--- UPDATE HeadsOfState SET US = 'Mike Pence'
+-- UPDATE HeadsOfState SET US = 'JFK'
 	
 
 -- ALL : Show History of Heads Of State (Union of Main & History)
@@ -21,14 +21,20 @@ FOR SYSTEM_TIME ALL
 ORDER BY FromDateTime ASC 
 
 -- AS OF : Show Heads of State on given date
-DECLARE @year	INT = 1919,
+DECLARE @year	INT = 1985,
 		@month	INT = 09,
-		@day	INT = 03
+		@day	INT = 25
 DECLARE @dt DATETIME2 = DATEFROMPARTS(@year,@month,@day)
 
 SELECT * 
 FROM HeadsOfState 
 FOR SYSTEM_TIME AS OF @dt
+-------------------------------------------
+
+
+
+
+
 
 -- FROM : Data active at any point in window
 SELECT *
@@ -38,8 +44,8 @@ FOR SYSTEM_TIME	FROM '1930-01-01' TO '1939-12-31'
 -- BETWEEN : Data active at any point in window INCLUDING started on enddate
 SELECT *
 FROM HeadsOfState	
-FOR SYSTEM_TIME	BETWEEN '1930-01-01' AND '1940-05-10 00:00:00.0000000'  
---FOR SYSTEM_TIME	FROM '1930-01-01' TO '1940-05-10 00:00:00.0000000'  
+--FOR SYSTEM_TIME	BETWEEN '1930-01-01' AND '1940-05-10 00:00:00.0000000'  
+FOR SYSTEM_TIME	FROM '1930-01-01' TO '1940-05-10 00:00:00.0000000'  
 
 -- CONTAINED IN : Data that started & finished inside daterange
 SELECT * 
